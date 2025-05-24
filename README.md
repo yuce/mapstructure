@@ -1,5 +1,8 @@
 # mapstructure [![Godoc](https://godoc.org/github.com/mitchellh/mapstructure?status.svg)](https://godoc.org/github.com/mitchellh/mapstructure)
 
+> [!NOTE]
+> Forked from archived https://github.com/mitchellh/mapstructure
+
 mapstructure is a Go library for decoding generic map values to structures
 and vice versa, while providing helpful error handling.
 
@@ -14,7 +17,7 @@ structure.
 Standard `go get`:
 
 ```
-$ go get github.com/mitchellh/mapstructure
+$ go get github.com/yuce/mapstructure
 ```
 
 ## Usage & Example
