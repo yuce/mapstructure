@@ -1,4 +1,4 @@
-# mapstructure [![Godoc](https://godoc.org/github.com/mitchellh/mapstructure?status.svg)](https://godoc.org/github.com/mitchellh/mapstructure)
+# mapstructure [![Godoc](https://godoc.org/github.com/yuce/mapstructure?status.svg)](https://godoc.org/github.com/yuce/mapstructure)
 
 > [!NOTE]
 > Forked from archived https://github.com/mitchellh/mapstructure
@@ -22,7 +22,7 @@ $ go get github.com/yuce/mapstructure
 
 ## Usage & Example
 
-For usage and examples see the [Godoc](http://godoc.org/github.com/mitchellh/mapstructure).
+For usage and examples see the [Godoc](http://godoc.org/github.com/yuce/mapstructure).
 
 The `Decode` function has examples associated with it there.
 
